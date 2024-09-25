@@ -1,0 +1,13 @@
+.cart-list {
+  padding-left: 0px;
+}
+
+.remove-all-text {
+  color: #0b69ff;
+  text-align: end;
+  font-size: 13px;
+  cursor: pointer;
+  border: none;
+  background-color: transparent;
+  outline: none;
+}

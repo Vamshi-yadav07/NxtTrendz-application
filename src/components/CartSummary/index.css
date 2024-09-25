@@ -1,0 +1,24 @@
+.price-head {
+  color: #616e7c;
+  font-size: 1.2rem;
+}
+
+.no-of-items {
+  color: #616e7c;
+}
+
+.checkout-btn {
+  background-color: #0b69ff;
+  color: white;
+  width: 100%;
+  padding: 7px 12px;
+  border: none;
+  border-radius: 4px;
+}
+
+.checkout-price {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-end;
+}
